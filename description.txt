@@ -1,3 +1,1 @@
-{
-  trail.txt:Its a sample file !
-}
+trail.txt:Its a sample file !
